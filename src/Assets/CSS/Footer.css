@@ -1,0 +1,47 @@
+.footerstyles{
+    
+    width: 100%;
+    background-color: darkslategrey;
+    padding-left: 20px;
+    /* padding: auto; */
+}
+.vl4 {
+    border-top: 3px solid rgb(79, 72, 217);
+    width: 30%;
+    margin-left: 3%;
+}
+.vl5 {
+    border-top: 3px solid rgb(79, 72, 217);
+    width: 30%;
+    margin-left: 20%;
+}
+.vl6 {
+    border-top: 3px solid rgb(79, 72, 217);
+    width: 30%;
+    margin-left: 30%;
+}
+.getstartedcontent{
+    color: beige;
+    padding-top: 30px;
+}
+.solutionscontent{
+    color: beige;
+    padding-top: 30px;
+    margin-left: 40px;
+}
+.servicescontent{
+    color: beige;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+.socialcontent{
+    display: flex;
+    margin-left: 50px;
+    padding-top: 30px;
+}
+hr.solid2 {
+    border-top: 3px solid #bbb;
+    width: 60%;
+   
+    margin: auto;
+}

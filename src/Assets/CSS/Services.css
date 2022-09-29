@@ -1,0 +1,22 @@
+.firstheader{
+font-family: monospace;
+color: rgb(21, 21, 98);
+padding: 5%;
+}
+.houses{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    color:rgb(21, 21, 98);
+     
+}
+.banner{
+    width: 70%;
+}
+.houseservices{
+background-color:antiquewhite;
+height: 100vh;
+
+}
+

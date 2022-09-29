@@ -1,0 +1,81 @@
+.navbody {
+    align-items: flex-end;
+}
+
+.vl {
+    border-left: 3px solid #e91e63;
+    height: 110px;
+    position: absolute;
+    left: 14%;
+    margin-left: -20px;
+    top: 42%;
+}
+.vl2 {
+    border-left: 3px solid #e91e63;
+    height: 150px;
+    position: fixed;
+    left: 6%;
+    margin-left: -20px;
+    top: 86%;
+}
+
+.vl3 {
+    border-right: 3px solid #e91e63;
+    height: 200px;
+    position: fixed;
+    right: 6%;
+    margin-right: -23px;
+    top: 82%;
+}
+
+hr.solid {
+    border-top: 3px solid #bbb;
+    width: 120%;
+}
+.nav-link {
+    color: black !important;
+    font-size: 13px !important;
+    padding-top: 20px !important;
+    margin-right: 30px;
+}
+.btnGetInTouch{
+    background-color: #e91e63;
+    color: white;
+    font-size: 14px;
+    padding: 8px;
+    border: 0px;
+    border-radius: 4px;
+    
+}
+.btnGetInTouch:hover{
+    background-color:white ;
+    color: #e91e63;
+    border: 1px solid #e91e63;
+}
+.contentdescription{
+    font-size: 15px;
+    width: 120%;
+}
+.contentstyle{
+    width: 90%;
+    margin: auto;
+    
+}
+
+  .rotate {
+    transform: rotate(-270deg);
+    font-size: 2px;
+    position: fixed;
+    right:6% ;
+    margin-right: -75px;
+    margin-top: -70em;
+    right: 5%;
+    border-right: 2px;
+    color: #e91e63;
+   
+  }
+  $textcolor: yellow;
+  .text{
+    color: $textcolor;
+  }
+  

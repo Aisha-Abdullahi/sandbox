@@ -1,0 +1,73 @@
+/* iPads (portrait and landscape) ----------- */
+@media
+ (min-device-width : 768px) and (max-device-width : 1024px) {
+    /* Styles */
+    .houses {
+        /* flex-direction: column; */
+        height: 100vh;
+        margin-bottom: 150px;
+    }
+
+    .banner {
+        width: 50%;
+    }
+
+    .essayheader {
+        width: 200%;
+    }
+
+    .houseservices {
+        height: 150vh;
+        margin-bottom: 50px;
+    }
+}
+
+@media
+ (min-device-width : 412px) and (max-device-width : 915px) {
+    /* Styles */
+    .houses {
+        flex-direction: column;
+        height: 50px;
+        margin-bottom: 150px;
+    }
+
+    .banner {
+        width: 0%;
+    }
+
+    .essayheader {
+        width: 200%;
+    }
+
+    .houseservices {
+        height: 150vh;
+        margin-bottom: 50px;
+    }
+}
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media
+/* (max-width: 400px;) */
+(min-device-width : 320px) and (max-device-width : 480px) {
+
+    /* Styles */
+    .houses {
+        flex-direction: column;
+        height: 100vh;
+        margin-bottom: 150px;
+    }
+
+    .banner {
+        width: 0%;
+    }
+
+    .essayheader {
+        width: 200%;
+    }
+
+    .houseservices {
+        height: 150vh;
+        margin-bottom: 50px;
+    }
+}
